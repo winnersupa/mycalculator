@@ -3,4 +3,3 @@ return a*b
 int b = 3
 int c = 5
 
-print mul(b,c)
